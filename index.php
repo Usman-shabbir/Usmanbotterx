@@ -94,8 +94,8 @@ if(!isset($_SESSION['logged']) || $_SESSION['logged'] ==  false){
 
 <title>Arman Khan Reaction Script
 </title> 
-<link <link href="css/style.css" rel="stylesheet" type="text/css">
-<<link <href="css/style_2.css" rel="stylesheet" type="text/css" media="all">
+<link <link href="style.css" rel="stylesheet" type="text/css">
+<<link <href="style_2.css" rel="stylesheet" type="text/css" media="all">
 
 <script src="//code.jquery.com/jquery.min.js"></script>
 <div id="snowflakeContainer">
